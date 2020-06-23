@@ -1,12 +1,11 @@
 # Winston "The Wolfe" Wolfe (Pulp Fiction)
 
-Winston Wolfe is the problem solver in the move Pulp Fiction by Quentin Tarantino. 
+Winston Wolfe is the problem solver in the movie Pulp Fiction by Quentin Tarantino. 
 
 ## Traits
 
-* Solves problems
 * Thinks fast
-* Acts fast
+* Talks fast
 
 ## Memorable quotes
 
@@ -14,4 +13,4 @@ Winston Wolfe is the problem solver in the move Pulp Fiction by Quentin Tarantin
 
 > I think fast, I talk fast, and I need you two guys to act fast if you want to get out of this. So pretty please, with sugar on top, clean the funky car.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fbillyray_jr%2F5663076110&psig=AOvVaw1j6m6mAtG_oW1SWvEutT2x&ust=1593001034785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjf7Lr1l-oCFQAAAAAdAAAAABAE"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.barbarianmeetscoding.com%2Fimages%2Fi-am-the-wolf-i-solve-problems.png&f=1&nofb=1"/>
