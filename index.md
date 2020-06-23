@@ -4,5 +4,9 @@
 
 Winston Wolfe is the problem solver in the move Pulp Fiction by Quentin Tarantino. 
 
+## Traits
 
+* Solves problems
+* Thinks fast
+* Acts fast
 
